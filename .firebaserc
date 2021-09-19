@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbandemo-53cfc": {
+      "hosting": {
+        "angular-kanban": [
+          "kanbandemo-53cfc"
+        ]
+      }
+    }
+  }
+}
